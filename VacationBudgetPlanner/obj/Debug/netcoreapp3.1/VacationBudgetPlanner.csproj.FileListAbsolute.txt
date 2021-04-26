@@ -1,0 +1,12 @@
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\bin\Debug\netcoreapp3.1\VacationBudgetPlanner.exe
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\bin\Debug\netcoreapp3.1\VacationBudgetPlanner.deps.json
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\bin\Debug\netcoreapp3.1\VacationBudgetPlanner.runtimeconfig.json
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\bin\Debug\netcoreapp3.1\VacationBudgetPlanner.runtimeconfig.dev.json
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\bin\Debug\netcoreapp3.1\VacationBudgetPlanner.dll
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\bin\Debug\netcoreapp3.1\VacationBudgetPlanner.pdb
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\obj\Debug\netcoreapp3.1\VacationBudgetPlanner.AssemblyInfoInputs.cache
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\obj\Debug\netcoreapp3.1\VacationBudgetPlanner.AssemblyInfo.cs
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\obj\Debug\netcoreapp3.1\VacationBudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\obj\Debug\netcoreapp3.1\VacationBudgetPlanner.dll
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\obj\Debug\netcoreapp3.1\VacationBudgetPlanner.pdb
+C:\Users\christopherke\source\repos\VacationBudgetPlanner\VacationBudgetPlanner\obj\Debug\netcoreapp3.1\VacationBudgetPlanner.genruntimeconfig.cache
